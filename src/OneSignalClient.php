@@ -1,6 +1,6 @@
 <?php
 
-namespace Berkayk\OneSignal;
+namespace Floristics\OneSignal;
 
 use GuzzleHttp\Client;
 
